@@ -1,9 +1,15 @@
 # Hi! :clap:
+
 ## Major in:
 - High Performance 💻
 - Computer Vision :eyes:
 - Protein Structure 🍳
 - AI 🤖
+
+## Mostly use:
+- Python
+- C++
+- Docker
 
 ## [MY Site :house:](https://www.jmyjmy.top)
 
