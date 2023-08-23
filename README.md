@@ -13,7 +13,7 @@
 
 ## [MY Site :house:](https://www.jmyjmy.top)
 
-![skills](https://skillicons.dev/icons?i=linux,raspberrypi,bash,git,github,gitlab,stackoverflow,vscode,idea,vim,docker,c,cpp,cmake,python,pytorch,tensorflow,flask,java,androidstudio,spring,go,php,js,html,vue,bootstrap,jquery,nginx,mysql,sqlite,redis,ps&perline=11&theme=light)
+![skills](https://skillicons.dev/icons?i=linux,raspberrypi,bash,git,github,gitlab,vscode,idea,vim,docker,cpp,cmake,python,pytorch,flask,java,androidstudio,spring,php,js,html,vue,bootstrap,jquery,nginx,mysql,ps&perline=9&theme=light)
 
 <img src="https://github-readme-stats-one-bice.vercel.app/api?username=jinmingyi1998&count_private=true&theme=Gradient&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&bg_color=90,a1c4fd00,c2e9fbff&card_width=360px" alt="stats" height="200px" ><img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=jinmingyi1998&layout=compact&langs_count=6&hide=javascript,html,css,scss&bg_color=90,a1c4fd00,c2e9fbff" alt="top language" height="200px">
 
